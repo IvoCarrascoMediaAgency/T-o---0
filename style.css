@@ -92,7 +92,7 @@ h2 {
 .layer{
     width: 100%;
     height: 100%;
-    background:linear-gradient(131deg, rgb(206 206 206 / 90%) 50%, rgb(129 186 222 / 70%) 79%), url(img24/trabajadores.jpg);
+    background:linear-gradient(131deg, rgb(206 206 206 / 90%) 50%, rgb(129 186 222 / 70%) 79%), url(img24/trabajadores.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1885,7 +1885,7 @@ option{
 
 .modalv22:target {
   
-    background: linear-gradient(-10deg, rgb(206 206 206 / 76%) 50%, rgb(129 186 222 / 70%) 79%), url(img24/trabajadores.jpg);
+    background: linear-gradient(-10deg, rgb(206 206 206 / 76%) 50%, rgb(129 186 222 / 70%) 79%), url(img24/trabajadores.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3033,7 +3033,7 @@ width: 80px;
 
 .layer{
    
-    background:linear-gradient(131deg, rgb(206 206 206 / 90%) 50%, rgb(129 186 222 / 70%) 79%), url(img24/trabajadores.jpg);
+    background:linear-gradient(131deg, rgb(206 206 206 / 60%) 50%, rgb(129 186 222 / 60%) 79%), url(img24/trabajadores.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

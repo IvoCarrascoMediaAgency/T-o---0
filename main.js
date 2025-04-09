@@ -701,7 +701,37 @@ function verifyCaptcha3(token) {
 }
 
 
+ // Carga asíncrona de la API de IFrame de YouTube
+ var tag = document.createElement('script');
+ tag.src = "https://www.youtube.com/iframe_api";
+ var firstScriptTag = document.getElementsByTagName('script')[0];
+ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+ var player;
+ function onYouTubeIframeAPIReady() {
+   player = new YT.Player('player', {
+     videoId: 'wi5GRUmHaLI',
+     playerVars: {
+       autoplay: 1,
+       mute: 1,
+       loop: 1,
+       playlist: 'wi5GRUmHaLI',
+       controls: 0,
+       showinfo: 0,
+       modestbranding: 1,
+       rel: 0
+     },
+     events: {
+       'onReady': onPlayerReady
+     }
+   });
+ }
+
+ function onPlayerReady(event) {
+   // Establece la velocidad de reproducción a 0.5x
+   event.target.setPlaybackRate(0.4);
+   event.target.playVideo();
+ }
 
 
 
