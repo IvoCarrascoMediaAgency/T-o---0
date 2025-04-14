@@ -20,44 +20,231 @@ const pedido_store = {
 
       'I1':{
       //NOMBRE DEL ITEM
-      name:'Aire Acondicionado',
-      desc:'En Área de Tomografía',
+      name:'',
+      desc:'',
       //PRECIO BASE DEL ITEM
       price:399,
       //CANTIDAD ESCOGIDA DEL ITEM
       qty:0,
       //FUENTE DE LA IMAGEN
-      img:'img24/Aire-acondicionado-en-hospital.webp',
+      img:'imgdos/imgproyectos/imgmayo/1.webp',
       linkpago:'https://payp.page.link/BMdB',
     
       },
       'I2':{
-      name:'Ventilación Mecánica',
-      desc:'En Restaurantes',
+      name:'',
+      desc:'',
       price:399,
       qty:0,
-      img:'img24/sistemas-de-extracción-y-ventilación-en-restaurantes.webp',
+      img:'imgdos/imgproyectos/imgmayo/2.webp',
       linkpago:'https://payp.page.link/7Lic',
       },
       'I3':{
-      name:'Aire Acondicionado',
-      desc:'En centros Educativos',
+      name:'',
+      desc:'',
       price:199,
       qty:0,
-      img:'img24/Aire-Acondicionado-para-Escuelas.webp',
+      img:'imgdos/imgproyectos/imgmayo/3.webp',
       linkpago:'https://payp.page.link/4ho4',
       },
       'I4':{
-        name:'Sistemas Contra Incendios',
-        desc:'En Guayaquil',
+        name:'',
+        desc:'',
         price:399,
         qty:0,
-        img:'img24/Sistemas-contra-incendios-Guayaquil.webp',
+        img:'imgdos/imgproyectos/imgmayo/4.webp',
         linkpago:'https://payp.page.link/7Lic',
       },
+
+      // *****************
+      // *****************
+
+
+      'I5':{
+        name:'',
+        desc:'',
+        price:299,
+        qty:0,
+        img:'imgdos/imgproyectos/imgmayo/5.webp',
+         linkpago:'https://payp.page.link/XHYo',
+        },
+        
+        'I6':{
+        name:'',
+        desc:'',
+        price:199,
+        qty:0,
+        img:'imgdos/imgproyectos/imgmayo/6.webp',
+         linkpago:'https://payp.page.link/4ho4',
+        
+      },
+        'I7':{
+        name:'',
+        desc:'',
+        price:299,
+        qty:0,
+        img:'imgdos/imgproyectos/imgmayo/7.webp',
+         linkpago:'https://payp.page.link/XHYo',
+        },
+        'I8':{
+        name:'',
+        desc:'',
+        price:299,
+        qty:0,
+        img:'imgdos/imgproyectos/imgmayo/8.webp',
+         linkpago:'https://payp.page.link/XHYo',
+        },
+        'I9':{
+        name:'',
+        desc:'',
+        price:299,
+        qty:0,
+        img:'imgdos/imgproyectos/imgmayo/9.webp',
+         linkpago:'https://payp.page.link/XHYo',
+        },
+        'I10':{
+          name:'',
+          desc:'',
+          price:299,
+          qty:0,
+          img:'imgdos/imgproyectos/imgmayo/10.webp',
+           linkpago:'https://payp.page.link/XHYo',
+          },
+
+
+          'I11':{
+            name:'',
+            desc:'',
+            price:299,
+            qty:0,
+            img:'imgdos/imgproyectos/imgmayo/11.webp',
+             linkpago:'https://payp.page.link/XHYo',
+            },
+            
+            'I12':{
+            name:'',
+            desc:'',
+            price:199,
+            qty:0,
+            img:'imgdos/imgproyectos/imgmayo/12.webp',
+             linkpago:'https://payp.page.link/4ho4',
+            
+          },
+            'I13':{
+            name:'',
+            desc:'',
+            price:299,
+            qty:0,
+            img:'imgdos/imgproyectos/imgmayo/13.webp',
+             linkpago:'https://payp.page.link/XHYo',
+            },
+            'I14':{
+            name:'',
+            desc:'',
+            price:299,
+            qty:0,
+            img:'imgdos/imgproyectos/imgmayo/14.webp',
+             linkpago:'https://payp.page.link/XHYo',
+            },
+            'I15':{
+            name:'',
+            desc:'',
+            price:299,
+            qty:0,
+            img:'imgdos/imgproyectos/imgmayo/15.webp',
+             linkpago:'https://payp.page.link/XHYo',
+            },
+            'I16':{
+              name:'',
+              desc:'',
+              price:299,
+              qty:0,
+              img:'imgdos/imgproyectos/imgmayo/16.webp',
+               linkpago:'https://payp.page.link/XHYo',
+              },
+    
+              'I17':{
+                name:'',
+                desc:'',
+                price:299,
+                qty:0,
+                img:'imgdos/imgproyectos/imgmayo/17.webp',
+                 linkpago:'https://payp.page.link/XHYo',
+                },
+                
+                'I18':{
+                name:'',
+                desc:'',
+                price:199,
+                qty:0,
+                img:'imgdos/imgproyectos/imgmayo/18.webp',
+                 linkpago:'https://payp.page.link/4ho4',
+                
+              },
+                'I19':{
+                name:'',
+                desc:'',
+                price:299,
+                qty:0,
+                img:'imgdos/imgproyectos/imgmayo/19.webp',
+                 linkpago:'https://payp.page.link/XHYo',
+                },
+                'I20':{
+                name:'',
+                desc:'',
+                price:299,
+                qty:0,
+                img:'imgdos/imgproyectos/imgmayo/20.webp',
+                 linkpago:'https://payp.page.link/XHYo',
+                },
+                'I21':{
+                name:'',
+                desc:'',
+                price:299,
+                qty:0,
+                img:'imgdos/imgproyectos/imgmayo/21.webp',
+                 linkpago:'https://payp.page.link/XHYo',
+                },
+                'I22':{
+                  name:'',
+                  desc:'',
+                  price:299,
+                  qty:0,
+                  img:'imgdos/imgproyectos/imgmayo/22.webp',
+                   linkpago:'https://payp.page.link/XHYo',
+                  },
+        
+                  'I23':{
+                    name:'',
+                    desc:'',
+                    price:299,
+                    qty:0,
+                    img:'imgdos/imgproyectos/imgmayo/23.webp',
+                     linkpago:'https://payp.page.link/XHYo',
+                    },
+                    
+                    'I24':{
+                    name:'',
+                    desc:'',
+                    price:199,
+                    qty:0,
+                    img:'imgdos/imgproyectos/imgmayo/24.webp',
+                     linkpago:'https://payp.page.link/4ho4',
+                    
+                  },
+                    
+
+
+
+      // *****************
+      // *****************
+      // *****************
+      // *****************
+      // *****************
+      // *****************
     },
       /*NOMBRE CATEGORIA*/
-      namec:'Herramientas Más Vendidas',
+      namec:'Últimos Proyectos',
     },
     'C2':{
        items:{
@@ -125,11 +312,8 @@ const pedido_store = {
             img:'img24/centros-educativos-1.webp',
              linkpago:'https://payp.page.link/XHYo',
             },
-          
-
       },
-      
-      namec:'Herramientas Destacadas',
+      namec:'Herramientas',
     },
     'C3':{
       items:{
